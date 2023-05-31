@@ -16,5 +16,161 @@ li {
 }
 
 .header {
-    /* background-image: url(); */
+    background-image: url();
+}
+
+.header-text {
+    font-family: 'Inter';
+font-size: 70px;
+font-weight: 200;
+line-height: 85px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 146px;
+}
+
+.header-text1 {
+    font-family: 'Inter';
+font-size: 70px;
+font-weight: 200;
+line-height: 85px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 146px;
+
+}
+
+.header-info {
+    font-family: 'Inter';
+font-size: 21px;
+font-weight: 300;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 160px;
+}
+
+.header-button {
+    font-family: 'Inter';
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 191px;
+background: #B47B48;
+height: 57px;
+width: 207px;
+border-radius: 17px;
+
+}
+
+.header-article {
+    height: 225px;
+width: 310px;
+border-radius: 0px;
+background: #272727;
+
+}
+
+.header-price {
+    font-family: 'Inter';
+font-size: 24px;
+font-weight: 200;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.header-price1 {
+    font-family: 'Inter';
+font-size: 24px;
+font-weight: 200;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.header-price2 {
+    font-family: 'Inter';
+font-size: 24px;
+font-weight: 200;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.header-name {
+    font-family: 'Inter';
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.header-button1 {
+    font-family: 'Inter';
+font-size: 16px;
+font-weight: 900;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+background: #C85312;
+height: 34px;
+width: 79px;
+border-radius: 0px;
+color: #FFFFFF;
+
+}
+
+.main-text {
+    font-family: 'Inter';
+font-size: 64px;
+font-weight: 100;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 638px;
+
+}
+
+.main-img {
+    height: 184.39024353027344px;
+width: 294px;
+margin-left: 295px;
+border-radius: 0px;
+
+}
+
+.main-img1 {
+    height: 184.39024353027344px;
+width: 294px;
+margin-left: 791px;
+border-radius: 0px;
+
+}
+
+.main-img {
+    height: 184.39024353027344px;
+width: 294px;
+margin-left: 295px;
+border-radius: 0px;
+
+}
+
+.main-img1 {
+    height: 184.39024353027344px;
+width: 294px;
+margin-left: 295px;
+border-radius: 0px;
+
 }
