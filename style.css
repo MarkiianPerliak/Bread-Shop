@@ -174,3 +174,11 @@ margin-left: 295px;
 border-radius: 0px;
 
 }
+
+.main-article {
+    height: 229px;
+width: 328px;
+margin-left: 275px;
+border-radius: 0px;
+border: 1px solid black;
+}
