@@ -29,6 +29,22 @@ li {
     background-image: url();
 }
 
+.header-list-nav {
+    gap: 31px;
+    display: flex;
+    margin-bottom: 71px;
+    padding-left: 156px;
+    padding-top: 55px;
+}
+
+.header-link {
+
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 200;
+    line-height: normal;
+}
+
 .header-text {
     font-family: 'Inter';
 font-size: 70px;
@@ -77,6 +93,7 @@ width: 310px;
 border-radius: 0px;
 background: #272727;
 
+
 }
 
 .header-price {
@@ -85,30 +102,10 @@ font-size: 24px;
 font-weight: 200;
 line-height: 29px;
 letter-spacing: 0em;
-text-align: left;
+text-align: right;
 color: #FFFFFF;
 
-}
 
-.header-price1 {
-    font-family: 'Inter';
-font-size: 24px;
-font-weight: 200;
-line-height: 29px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFFFFF;
-
-}
-
-.header-price2 {
-    font-family: 'Inter';
-font-size: 24px;
-font-weight: 200;
-line-height: 29px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFFFFF;
 
 }
 
@@ -118,12 +115,12 @@ font-size: 16px;
 font-weight: 500;
 line-height: 19px;
 letter-spacing: 0em;
-text-align: left;
+text-align: right;
 color: #FFFFFF;
 
 }
 
-.header-button1 {
+.header-button-buy {
     font-family: 'Inter';
 font-size: 16px;
 font-weight: 900;
@@ -138,9 +135,19 @@ color: #FFFFFF;
 
 }
 
+.main {
+    background-color: black;
+}
+
 .main-list {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 104px;
+padding-right: 146px;
+gap: 196px;
+row-gap: 7px
+;
 }
 .main-text {
     font-family: 'Inter';
@@ -152,37 +159,66 @@ text-align: left;
 
 }
 
-.main-img {
-    height: 184.39024353027344px;
-width: 294px;
+.main-name {
+    display: flex;
+width: 92.195px;
+height: 31.756px;
+flex-direction: column;
+color: #FFF;
+font-family: 'Inter';
+font-size: 25.92px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
 
+.main-button-order {
+    display: block;
+margin-top: 9px;
+width: 160px;
+height: 41px;
+border-radius: 17px;
+background: #B47B48;
+color: #FFF;
+font-family: 'Inter';
+font-size: 25.92px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: auto;
+margin-right: auto;
 
 }
 
-.main-img1 {
-    height: 184.39024353027344px;
-width: 294px;
-
-
+.main-img-bread {
+    display: block;
+    width: 294px;
+    height: 184.39px;
 }
 
-.main-img {
-    height: 184.39024353027344px;
-width: 294px;
-
-
+.main-img-Bekary {
+    display: block;
+    width: 357px;
+    height: 271px;
 }
 
-.main-img1 {
-    height: 184.39024353027344px;
-width: 294px;
+.main-img-Cakes-Capcakes {
+    display: block;
+    width: 258px;
+    height: 257px;
+}
+
+.main-img-Coockies-Pretzels {
+display: block;
+width: 226px;
+height: 230px;
 
 }
 
 .main-article {
     height: 229px;
 width: 328px;
-margin-left: 110px;
+
 border-radius: 0px;
-border: 1px solid black;
+border: 1px solid #FFF;
 }
