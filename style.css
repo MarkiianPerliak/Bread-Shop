@@ -136,7 +136,7 @@ color: #FFFFFF;
 }
 
 .main {
-    background-color: black;
+
 }
 
 .main-list {
@@ -221,4 +221,30 @@ width: 328px;
 
 border-radius: 0px;
 border: 1px solid #FFF;
+}
+
+.where {
+    background: #202023;
+}
+
+.where-text {
+    color: #FFF;
+    font-family: 'Italiana';
+    width: 129px;
+flex-direction: column;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 160.66px;
+padding-top: 66px;
+margin-bottom: 44px;
+}
+
+.where-img {
+    padding-left: 160.66px;
+}
+
+.footer {
+    background: #202023;
 }
